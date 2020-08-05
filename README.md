@@ -4,6 +4,13 @@
 
 * https://git-scm.com/downloads
 
+### Config
+
+```
+$ git config --global user.name "Ze-Hao Wang (Salmon)"
+$ git config --global user.email salmon.zh.tw@gmail.com
+```
+
 ## Node.js
 
 * https://nodejs.org/en/download/
